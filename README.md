@@ -1,5 +1,7 @@
-# 🧠 Machine Learning – Eye Disease Image Classification  
-Klasifikasi penyakit mata berbasis citra menggunakan teknik Machine Learning.
+# 🧠 Klasifikasi Penyakit Mata Menggunakan Convolutional Neural Networks (CNN)
+
+Proyek ini merupakan implementasi Convolutional Neural Networks (CNN) untuk melakukan klasifikasi empat jenis penyakit mata berdasarkan citra retina. Model dibangun menggunakan dataset berisi gambar retina yang dikelompokkan ke dalam empat kelas utama: cataract, glaucoma, diabetic retinopathy, dan normal.
+
 
 ---
 
