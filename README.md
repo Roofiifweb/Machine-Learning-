@@ -54,13 +54,7 @@ https://www.canva.com/design/DAG5EWK9pJA/bSath15MajuQRGlmMRORmw/edit?utm_content
 ## 🧪 Arsitektur CNN  
 Model CNN yang digunakan meliputi layer:
 
-- **Conv2D**
-- **MaxPooling2D**
-- **Dropout**
-- **Flatten**
-- **Dense (Fully Connected Layer)**  
-- Optimizer: **Adam**  
-- Loss function: **Categorical Crossentropy**
+
 
 ---
 
